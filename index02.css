@@ -1,0 +1,26 @@
+html {
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+#table {
+    background-color: lemonchiffon;
+    padding: 5px 5px;
+}
+
+#table input {
+    border-color: lightgrey;
+}
+
+.header {
+    background-color: lightgreen;
+    color: blue;
+    text-align: left;
+    height: 22px;
+    width: 500px;
+}
+
+.info {
+    color: blue;
+    display: block;
+    text-align: left;
+}

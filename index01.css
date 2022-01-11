@@ -1,0 +1,32 @@
+html {
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+#table {
+    border: 10px solid lightskyblue;
+    padding: 2px 2px;
+    width: 500px;
+}
+
+.header {
+    background-color: darkgreen;
+    color: white;
+    text-align: center;
+    height: 22px;
+}
+
+.info {
+    color: blue;
+    display: block;
+    text-align: right;
+}
+
+input {
+    border-color: lightgrey;
+}
+
+#hobby label {
+    color: orangered;
+    line-height: 2px;
+    margin: 0 20px 0 0;
+}
